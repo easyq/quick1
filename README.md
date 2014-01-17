@@ -19,7 +19,7 @@ Create the patch
 ================
 
 1. Your script is successfully completed. Now create the patch via diff -Nur for a whole directory quick1.
-2. Encrypt the patch via RSA with the cert.pm.
+2. Encrypt the patch using RSA with the cert.pm.
 
 Send full log and files
 =======================
